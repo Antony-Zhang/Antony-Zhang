@@ -1,12 +1,12 @@
 ### Hi there 👋，I`m Antony-Zhang. Or you can call me Fishead_East as well.
 
 
-- 🌱 I’m currently learning Software Enginering in Wuhan University(WHU), Wuhan, Hubei.
+- 🌱 I’m currently learning Software Enginering in Wuhan University(WHU), as an undergraduate.
 - 📫 How to reach me: ytzd2696@foxmail.com
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Antony-Zhang)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Zhang&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
 <!--
 **Antony-Zhang/Antony-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
