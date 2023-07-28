@@ -1,7 +1,7 @@
 ### Hi there 👋，I`m Antony-Zhang. Or you can call me Fishead_East as well.
 
 
-- 🌱 I’m currently learning Software Enginering in Wuhan University(WHU), as an undergraduate.
+- 🌱 I’m currently learning Software Engineering in Wuhan University(WHU), as an undergraduate.
 - 📫 How to reach me: ytzd2696@foxmail.com
 
 
