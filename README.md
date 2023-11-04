@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Software Engineering in Wuhan University(WHU), as an undergraduate.
-- 📫 How to reach me: ytzd2696@foxmail.com
+- 📫 How to reach me: zhidong.zhang96@foxmail.com
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Antony-Zhang)
