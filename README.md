@@ -1,7 +1,7 @@
-### Hi there 👋，I`m Antony-Zhang. Or you can call me Antony_East as well.
+### Hi there 👋，I`m Antony-Zhang. 
 
 
-- 🌱 I’m currently learning Software Engineering in Wuhan University(WHU), as an undergraduate.
+- 🌱 I’m an undergraduate in Wuhan University(WHU), majoring Software Engineering.
 - 📫 How to reach me: zhidong.zhang96@foxmail.com
 
 
