@@ -1,7 +1,7 @@
 ### Hi there 👋，I`m Antony-Zhang. 
 
 
-- 🌱 I’m an undergraduate in Wuhan University(WHU), majoring Software Engineering.
+- 🌱 I’m an undergraduate in Wuhan University(WHU), majoring in Software Engineering.
 - 📫 How to reach me: zhidong.zhang96@foxmail.com
 
 
