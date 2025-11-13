@@ -1,4 +1,4 @@
-### Hi there 👋，I`m Antony-Zhang. 
+### Hi there 👋，I`m Zhidong. 
 
 
 - 🌱 I’m an MSc student in the University of Tübingen, majoring in computational neuroscience
