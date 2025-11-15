@@ -5,8 +5,8 @@
 - 📫 How to reach me: zhidong.zhang96@foxmail.com
 
 
-![](https://github-readme-stats.vercel.app/api?username=Antony-Zhang)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Zhang&hide_langs_below=1&theme=default&line_height=27&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ZhidongZhang96)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhidongZhang96&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
 <!--
 **Antony-Zhang/Antony-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
