@@ -1,13 +1,17 @@
 ### Hi there 👋，I`m Zhidong. 
+I’m a Master's student in computational neuroscience, at the Graduate Training Centre, University of Tübingen
 
 
-- 🌱 I’m a Master's student in the University of Tübingen, majoring in computational neuroscience.
-- 📫 How to reach me: zhidong.zhang96@foxmail.com
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZhidongZhang96&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZhidongZhang96&theme=github)
 
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZhidongZhang96&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZhidongZhang96&theme=github) -->
+
+<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhidongzhang96&show_icons=true&theme=tokyonight" />
-</a>
+</a> -->
 
 <!--
 **Antony-Zhang/Antony-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
